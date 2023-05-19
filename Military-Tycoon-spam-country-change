@@ -1,0 +1,393 @@
+
+while true do
+    local args = {
+    [1] = "Saudi Arabia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Thailand"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "USA"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Canada"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+	
+	local args = {
+    [1] = "Mexico"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Dominican Republic"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Costa Rica"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Honduras"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+	
+	local args = {
+    [1] = "Brazil"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Argentina"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Peru"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Colombia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Venezuela"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Chile"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Ecuador"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Bolivia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Paraguay"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "United Kingdom"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Ireland"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Spain"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Portugal"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "France"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Netherlands"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Norway"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Sweden"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Finland"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Denmark"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Belgium"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Germany"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Italy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Czech Republic"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Poland"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Ukraine"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Romania"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Russia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Greece"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Serbia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Croatia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Albania"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Nigeria"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Ethiopia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Egypt"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "South Africa"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Morocco"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "China"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "India"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Indonesia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Japan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Philippines"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Vietnam"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Turkey"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Thailand"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "North Korea"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "South Korea"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Malaysia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Singapore"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Saudi Arabia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "UAE"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Qatar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Iraq"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Iran"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Israel"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Pakistan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "Australia"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+	local args = {
+    [1] = "New Zealand"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("TycoonService"):WaitForChild("RF"):WaitForChild("Select"):InvokeServer(unpack(args))
+
+end
