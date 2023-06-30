@@ -89,10 +89,6 @@ closebutton.Text = "X"
 closebutton.Position = UDim2.new(1,0,0,0)
 closebutton.TextColor3 = Color3.new(1, 1, 1)
 
-closebuttoncurve = Instance.new("UICorner")
-closebuttoncurve.Parent = closebutton
-closebuttoncurve.CornerRadius = 1
-
 ui = Instance.new("UIAspectRatioConstraint",frame)
 ui.AspectRatio = 4
 
