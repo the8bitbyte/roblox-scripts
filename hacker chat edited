@@ -78,7 +78,7 @@ title.BackgroundTransparency = 1
 title.TextColor3 = Color3.new(1, 1, 1)
 
 closebutton = Instance.new("TextButton",frame)
-closebutton.Size = UDim2.new(0.15,0,0.25,0)
+closebutton.Size = UDim2.new(0.1,0,0.15,0)
 closebutton.AnchorPoint = Vector2.new(1,0)
 closebutton.TextScaled = true
 closebutton.BackgroundColor3 = Color3.new(1, 0, 0.0156863)
