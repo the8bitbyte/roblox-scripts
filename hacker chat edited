@@ -58,6 +58,9 @@ frame.Active = true
 frame.Draggable = true
 frame.BackgroundColor3 = Color3.new(0.1, 0.1, 0.1)
 
+framecurve = Instance.new("UICorner")
+framecurve.Parent = frame
+
 textbox = Instance.new("TextBox",frame)
 textbox.AnchorPoint = Vector2.new(0.5,0.5)
 textbox.Size = UDim2.new(0.95,0,0.65,0)
