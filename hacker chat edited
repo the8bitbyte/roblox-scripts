@@ -70,6 +70,9 @@ textbox.BackgroundColor3 = Color3.new(.05,.05,.05)
 textbox.Text = "Text"
 textbox.TextColor3 = Color3.new(1, 1, 1)
 
+textboxcurve = Instance.new("UICorner")
+textboxcurve.Parent = textbox
+
 title = Instance.new("TextLabel",frame)
 title.Size = UDim2.new(0.3,0,0.3,0)
 title.TextScaled = true
