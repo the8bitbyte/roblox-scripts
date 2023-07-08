@@ -59,6 +59,7 @@ button3.MouseButton1Click:Connect(function()
     game:GetService("ReplicatedStorage"):WaitForChild("SpawnGalaxyBlock"):FireServer()
 end)
 
+
 button4.MouseButton1Click:Connect(function()
    for i,v in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
 v:Destroy()
